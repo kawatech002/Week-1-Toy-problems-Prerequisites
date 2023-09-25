@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mocha-multi": "^1.1.7"
+  }
+}
